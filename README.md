@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @trapmoneyrai. I'm not guvung out my name here yet - It's findable though so if that matters to you - you know where to find me. I'm currently in South Africa.
+- 👋 Hi, I’m @trapmoneyrai. I'm not giving out my name here yet. It's easy to find though so if that matters to you - you know where to find me. I'm currently in South Africa.
 - 👀 I’m interested in music, graphic design, sports and a career in tech.
 - 🌱 I’m currently learning HTML/CSS/ JavaScript
 - 💞️ I’m looking to collaborate on nothing. I'm not there yet
