@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trapmoneyrai. I'm not giving out my name here yet. It's easy to find though so if that matters to you - you know where to find me. I'm currently in South Africa.
 - 👀 I’m interested in music, graphic design, sports and a career in tech.
-- 🌱 I’m currently learning HTML/CSS/ JavaScript
+- 🌱 I’m currently learning HTML/CSS/JavaScript. So front-end development.
 - 💞️ I’m looking to collaborate on nothing. I'm not there yet
 - 📫 How to reach me @raireloaded on IG/Twitter & Tumblr. My social media is a mess for now
 
